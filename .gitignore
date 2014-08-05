@@ -1,0 +1,10 @@
+*.pyc
+conf/config.py
+*.log
+LOG
+
+#IDEA
+.idea
+*.iml
+*.ipr
+*.iws
